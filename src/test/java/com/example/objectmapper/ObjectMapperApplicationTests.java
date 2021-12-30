@@ -33,10 +33,7 @@ class ObjectMapperApplicationTests {
         // text -> object
         // object mapper는 default 생성자를 필요로 한다.
         User objectUser = objectMapper.readValue(text, User.class);
-        System.out.println("objectUser: "+ objectUser);
-
-
-
+        System.out.println("objectUser: " + objectUser);
 
 
     }

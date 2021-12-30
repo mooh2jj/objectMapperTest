@@ -1,16 +1,19 @@
 {
-  "name":"dsg22",
-  "age":15,
-  "cars":[
+  "name": [
+    "dsg22",
+    "dsg333"
+  ],
+  "age": 15,
+  "cars": [
     {
-      "name":"K5",
-      "carNumber":"11rk 1111",
-      "type":"sedan"
+      "name": "K5",
+      "carNumber": "11rk 1111",
+      "type": "sedan"
     },
     {
-      "name":"Q5",
-      "carNumber":"22rk 2222",
-      "type":"SUV"
+      "name": "Q5",
+      "carNumber": "22rk 2222",
+      "type": "SUV"
     }
   ]
 }
